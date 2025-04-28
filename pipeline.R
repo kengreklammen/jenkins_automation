@@ -1,3 +1,4 @@
+#devtools::install_github("https://github.com/kengreklammen/jenkins_automation")
 library(pipelineR)
 
 con <- pipelineR::connect_db()
