@@ -1,4 +1,4 @@
-
+library(pipelineR)
 
 con <- pipelineR::connect_db()
 
